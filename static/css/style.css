@@ -1,0 +1,9 @@
+/* body {
+
+    color: #07f723;
+  } */
+  .jumbotron {
+    background-image: url("../images/sddefault.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
